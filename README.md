@@ -14,3 +14,4 @@ Many thanks to the contributors!
 
 - [jatinchowdhury18](https://github.com/jatinchowdhury18): File browser.
 - [trirpi](https://github.com/trirpi)
+- [polygon](https://github.com/polygon) and [SamuMazzi](https://github.com/SamuMazzi): Linux support.
