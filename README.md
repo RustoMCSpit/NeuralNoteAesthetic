@@ -3,6 +3,13 @@
 Red <img style="float: right;" src="NeuralNote/Assets/background2.png" width="100" />
 Black <img style="float: right;" src="NeuralNote/Assets/background3.png" width="100" />
 
+## To do list
+
+1) Make backgrounds
+2) Make a dictionary with better names attached to the .png
+3) Have the ability to swap backgrounds in settings
+
+
 ## Credits
 
 NeuralNote was developed by [Damien Ronssin](https://github.com/DamRsn) and [Tibor Vass](https://github.com/tiborvass).
