@@ -8,6 +8,8 @@ Black <img style="float: right;" src="NeuralNote/Assets/background3.png" width="
 1) Make backgrounds
 2) Make a dictionary with better names attached to the .png
 3) Have the ability to swap backgrounds in settings
+4) Update documentation
+5) Retain background after update
 
 
 ## Credits
