@@ -10,6 +10,7 @@ Black <img style="float: right;" src="NeuralNote/Assets/background3.png" width="
 3) Have the ability to swap backgrounds in settings
 4) Update documentation
 5) Retain background after update
+6) Add a "wait for first noise to record"  feature
 
 
 ## Credits
